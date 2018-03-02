@@ -1,6 +1,6 @@
 {% set name = "polcart" %}
-{% set version = "2017.1.16.14.45" %}
-{% set md5 = "e515e1e7b1a9647b53a4566678983565" %}
+{% set version = "2017.8.26.10.50" %}
+{% set md5 = "b03a958700fb499dc31f10a1f57bee00" %}
 
 package:
   name: {{ name|lower }}
